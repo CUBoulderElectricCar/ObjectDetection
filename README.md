@@ -1,4 +1,3 @@
 # ObjectDetection
 
-Requires multiple libraries to be installed
-Such libraries include OpenCV and TensorFlow
+Requires multiple libraries to be installed such as OpenCV and TensorFlow
